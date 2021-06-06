@@ -17,7 +17,7 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto bootcamp Dio - Santander
+  description: Projeto bootcamp Dio - Santander - Beckend
 
 
 
